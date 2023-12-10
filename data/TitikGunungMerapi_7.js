@@ -1,0 +1,1 @@
+var json_TitikGunungMerapi_7 = {"type":"FeatureCollection","name":"TitikGunungMerapi_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{},"geometry":{"type":"Point","coordinates":[110.446053531823281,-7.541916320854305]}}]}
